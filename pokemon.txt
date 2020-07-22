@@ -1,7 +1,9 @@
 snorlax
-pikachu
 charizard
 charmander
 moltras
 zapdos
-
+squirtle
+grimer
+paras
+psyduck
