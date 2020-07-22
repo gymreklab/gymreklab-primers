@@ -7,3 +7,5 @@ squirtle
 grimer
 paras
 psyduck
+ratata
+nidoran
