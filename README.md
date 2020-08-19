@@ -1,2 +1,1 @@
-# mgymrek-test-repo
-Github primer!
+# gymreklab-primers
